@@ -1,8 +1,8 @@
-###The Problem
+### The Problem
 
 Wyatt, JD, Lindsay, Micah, and their friend Bob go on a camping trip. Along the way Bob gets attacked by a bear! The group realizes they brought the wrong map and are in a dangerous territory filled with wild bears. They must empty their bags of useless items as quickly as possible in order to escape and survive!
 
-###Your Mission
+### Your Mission
 
 Create a web app, which includes the following three files:
  + `index.html`
@@ -17,6 +17,6 @@ Create a web app, which includes the following three files:
 
 4. The `styles.css` file should include some basic CSS to color the background and style the text.
 
-###What we want to see
+### What we want to see
 
 A cool web app with one photo of a camp site and a clickable button. When the button is clicked, a line of text should be displayed containing the items that Wyatt, JD, Lindsay, and Micah should ditch in order to escape!
